@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/singlequote/laravel-filemanager.svg?style=flat-square)](https://packagist.org/packages/singlequote/laravel-filemanager)
 [![Total Downloads](https://img.shields.io/packagist/dt/singlequote/laravel-filemanager.svg?style=flat-square)](https://packagist.org/packages/singlequote/laravel-filemanager)
 
-This package contains a light weight filemanager. It is build for easy intergration and easy to customize. It works only with laravel and uses a lot of laravels code. The code is clean and we want to keep it this way. offcourse this package will grow into an awesome filemanager where you can manage your files the way you want.
+This package contains a light weight filemanager. It is build for easy intergration and easy to customize. It works only with laravel and uses a lot of laravels code. The code is clean and we want to keep it this way. This package will of course grow into an awesome filemanager where you can manage your files the way you want.
 
 ## Installation
 
@@ -20,7 +20,7 @@ php artisan vendor:publish --tag=config
 Well let me tell you. This package has its own media viewer. This means you can open files in every view wherever you want. Also the media viewer optimizes your images to fit every weird structure you make. And yes the filemanager makes it easy as well! Manage your private files or share it with other users!
 
 ## Todo list
-Every new version release we create a new todo list. And yes you can help with that! Create a merge request with fixes, feutures and whatever you code.
+Every new version release we create a new todo list. And yes you can help with that! Create a merge request with fixes, features and whatever you code.
 #### Version 1.0.0 - Release
 - [ ] Creating docs
 - [ ] Creating tests
